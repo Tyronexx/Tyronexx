@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Tyronexx.io)
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">I'm a mobile app developer who enjoys learning new things and solving hard problems in an easy manner while adhering to best practices. I'm passionate in using Jetpack Compose and Kotlin to create mobile solutions. I have experimented with Javascript and Kotlin, but I prefer Kotlin (able to work and finish projects using any of the above)</h3>
 
